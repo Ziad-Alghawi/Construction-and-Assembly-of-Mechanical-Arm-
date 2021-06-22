@@ -18,3 +18,8 @@ Next I connected both Arm01 and Arm02.
 In the end I connected the Gripper .
 
 
+# This is the final form shown in the image here
+
+![12](https://user-images.githubusercontent.com/85841913/122969854-d316b280-d395-11eb-9bab-19b9e36e6b17.PNG)
+
+
